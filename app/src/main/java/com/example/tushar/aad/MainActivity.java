@@ -66,4 +66,5 @@ public class MainActivity extends AppCompatActivity {
     public void onViewClicked() {
         startActivity(new Intent(MainActivity.this,DisplayActivity.class));
     }
+    // HELLO WORLD
 }
